@@ -1,16 +1,33 @@
 ### Hi there 👋
 
+
+- 🌱 I’m currently learning:
+    I study at Colégio Técnico Industrial de Santa Maria, I learn about computer technology for the internet.
+    
+- 📫 How to reach me: 
+  mellop.marialuiza@gmail.com
+
+- 😄 Pronouns: 
+  she/her
+ 
+- ⚡ Fun fact:
+  -I'm 16 years old
+-Until I was four years old I ate ants hidden from my mother
+- I live in Santa Maria
+- I don't know many things about my course :)
+
+
+
+
+
+
+
+
+
+
 <!--
 **mariamello/mariamello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
