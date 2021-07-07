@@ -6,33 +6,38 @@
 # Hi
 ## _Welcome to my profile !_
 
-- 🌱 I’m currently learning
+- **🌱 I’m currently learning**
 > I study at Colégio Técnico Industrial de Santa Maria, I learn about computer technology for the internet.
     
     
-- 📫 How to reach me
+- **📫 How to reach me**
 >  mellop.marialuiza@gmail.com
 
 
 
-- 😄 Pronouns
+- **😄 Pronouns**
 >  she/her
  
  
  
-- ⚡ Fun fact
+- **⚡ Fun fact**
 >  I'm 16 years old
 > Until I was four years old I ate ants hidden from my mother
 > I live in Santa Maria
 > I don't know many things about my course :)
 
 
-- ✨Hobbies:
+- **✨Hobbies**
 >  to cook 
 >  to dance
 >  read books when I have time
 >   watch series
 >   story (the matter)
+
+- **some links from my social networks**
+ > Instagram: https://instagram.com/mriamello
+
+ > Twitter: https://twitter.com/malupmello
 
 
 
