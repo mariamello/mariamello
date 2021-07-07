@@ -17,16 +17,17 @@
  
 - ⚡ Fun fact
 -  I'm 16 years old
-    Until I was four years old I ate ants hidden from my mother
-    I live in Santa Maria
-    I don't know many things about my course :)
+- Until I was four years old I ate ants hidden from my mother
+- I live in Santa Maria
+- I don't know many things about my course :)
 
 
-- ✨Hobbies: to cook
-   to dance
-   read books when I have time
-   watch series
-   story (the matter)
+- ✨Hobbies:
+-  to cook 
+-  to dance
+-   read books when I have time
+-    watch series
+-     story (the matter)
 
 		xoxo
 
