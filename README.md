@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+    This is a file update.
 
 - 🌱 I’m currently learning:
     I study at Colégio Técnico Industrial de Santa Maria, I learn about computer technology for the internet.
@@ -15,6 +16,8 @@ I'm 16 years old
 Until I was four years old I ate ants hidden from my mother
 I live in Santa Maria
 ### I don't know many things about my course :)
+
+		xoxo
 
 
 
