@@ -9,11 +9,16 @@
 - 🌱 I’m currently learning
 -  I study at Colégio Técnico Industrial de Santa Maria, I learn about computer technology for the internet.
     
+    
 - 📫 How to reach me
 -  mellop.marialuiza@gmail.com
 
+
+
 - 😄 Pronouns
 -  she/her
+ 
+ 
  
 - ⚡ Fun fact
 -  I'm 16 years old
@@ -28,6 +33,8 @@
 -   read books when I have time
 -    watch series
 -     story (the matter)
+
+
 
 		xoxo
 
