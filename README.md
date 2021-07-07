@@ -7,26 +7,27 @@
 ## _Welcome to my profile !_
 
 - 🌱 I’m currently learning:
-    I study at Colégio Técnico Industrial de Santa Maria, I learn about computer technology for the internet.
+ I study at Colégio Técnico Industrial de Santa Maria, I learn about computer technology for the internet.
     
-- 📫 How to reach me: 
+- 📫 How to reach me:
   mellop.marialuiza@gmail.com
 
-- 😄 Pronouns: 
-  she/her
+- 😄 Pronouns:
+   she/her
  
 - ⚡ Fun fact:
-     I'm 16 years old
+    I'm 16 years old
     Until I was four years old I ate ants hidden from my mother
     I live in Santa Maria
     I don't know many things about my course :)
 
-- ✨Hobbies
- to cook
-to dance
-read books when I have time
-watch series
-story (the matter)
+
+- ✨Hobbies:
+   to cook
+   to dance
+   read books when I have time
+   watch series
+   story (the matter)
 
 		xoxo
 
