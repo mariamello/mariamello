@@ -5,7 +5,8 @@
 
 # Hi:lollipop:
 ## _Welcome to my profile !_
-![imagem verde](verde folha.jpg)
+![verde folha](https://user-images.githubusercontent.com/87035504/124854782-3e5ba980-df7e-11eb-8d30-f8605a8fd1f1.jpg)
+
 
 - **🌱 I’m currently learning**
 > I study at Colégio Técnico Industrial de Santa Maria, I learn about computer technology for the internet.
