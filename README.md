@@ -6,7 +6,6 @@
 # Hi:lollipop:
 ## _Welcome to my profile !_
 
-(verde folha.jpg)
 
 - **🌱 I’m currently learning**
 > I study at Colégio Técnico Industrial de Santa Maria, I learn about computer technology for the internet.
