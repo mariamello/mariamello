@@ -3,7 +3,7 @@
     This is a file update.
 	Esta é a modificação em nova_branch
 
-# Hi
+# Hi:lollipop:
 ## _Welcome to my profile !_
 
 - **🌱 I’m currently learning**
