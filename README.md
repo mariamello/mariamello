@@ -34,7 +34,7 @@
 >   watch series
 >   story (the matter)
 
-- **some links from my social networks**
+- **Some links from my social networks**
  > Instagram: https://instagram.com/mriamello
 
  > Twitter: https://twitter.com/malupmello
