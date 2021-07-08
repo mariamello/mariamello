@@ -5,7 +5,7 @@
 
 # Hi:lollipop:
 ## _Welcome to my profile !_
-![verde folha](https://user-images.githubusercontent.com/87035504/124854782-3e5ba980-df7e-11eb-8d30-f8605a8fd1f1.jpg)
+![verde folha](https://64.media.tumblr.com/66ebd45f4127e2d57a8fd0d46cd3f70c/230e1df134f5d819-de/s2048x3072/d4a7a7c026592e947e42017555fc5b74e7769e82.png)
 
 
 - **🌱 I’m currently learning**
