@@ -13,7 +13,7 @@
     
     
 - **📫 How to reach me**
->  mellop.marialuiza@gmail.com
+ >  mellop.marialuiza@gmail.com
 
 
 
@@ -23,23 +23,30 @@
  
  
 - **⚡ Fun fact**
->  I'm 16 years old
-> Until I was four years old I ate ants hidden from my mother
-> I live in Santa Maria
-> I don't know many things about my course :)
+ >  I'm 16 years old
+ 
+ > Until I was four years old I ate ants hidden from my mother
+ 
+ > I live in Santa Maria
+ 
+ > I don't know many things about my course :)
 
 
 - **✨Hobbies**
->  to cook 
->  to dance
->  read books when I have time
->   watch series
->   story (the matter)
+ >  to cook 
+ 
+ >  to dance
+ 
+ >  read books when I have time
+ 
+ >   watch series
+ 
+ >   story (the matter)
 
 - **:pencil:Some links from my social networks**
- > Instagram: https://instagram.com/mriamello
+  > Instagram: https://instagram.com/mriamello
 
- > Twitter: https://twitter.com/malupmello
+  > Twitter: https://twitter.com/malupmello
 
 
 
