@@ -23,7 +23,7 @@
  
  
 - **⚡ Fun fact**
- >  I'm 16 years old
+ >  I'm 17 years old
  
  > Until I was four years old I ate ants hidden from my mother
  
@@ -44,7 +44,7 @@
  >   story (the matter)
 
 - **:pencil:Some links from my social networks**
-  > Instagram: https://instagram.com/mriamello
+  > Instagram: https://instagram.com/mallumellos_
 
   > Twitter: https://twitter.com/malupmello
 
